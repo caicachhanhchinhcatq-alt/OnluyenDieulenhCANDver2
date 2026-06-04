@@ -2399,7 +2399,7 @@ window.allQuestions = [
       "Hạ một bậc xếp loại cán bộ trong năm.",
       "Hạ hai bậc danh hiệu thi đua trong năm."
     ],
-    "correct_answer": "Hạ một bậc danh hiệu thi đua trong năm."
+    "correct_answer": "Hạ một bậc xếp loại cán bộ trong năm."
   },
   {
     "id": 241,
