@@ -1,3 +1,4 @@
+
 // Gán danh sách câu hỏi vào biến hệ thống để file HTML có thể đọc được công khai
 window.allQuestions = [
   {
@@ -1378,7 +1379,7 @@ window.allQuestions = [
       "Nền cờ màu đỏ, ở giữa có ngôi sao 5 cánh màu vàng, góc trên phía trái có 6 chữ “BẢO VỆ AN NINH TỔ QUỐC” in hoa, màu vàng, nét cuối của chữ thứ sáu không vượt quá đầu của cánh sao phía phải.",
       "Nền cờ màu đỏ, ở giữa có ngôi sao 5 cánh màu vàng, góc trên phía trái có 6 chữ “BẢO VỆ AN NINH TỔ QUỐC” in hoa, màu vàng, nét cuối của chữ thứ sáu không vượt quá đầu của cánh sao ở chính giữa."
     ],
-    "correct_answer": "Nền cờ màu đỏ, ở giữa có ngôi sao 5 cánh màu vàng, góc trên phía trái có 6 chữ “BẢO VỆ AN NINH TỔ QUỐC” in hoa, màu vàng, nét cuối của chữ thứ sáu không vượt quá đầu của cánh sao phía trái."
+    "correct_answer": "Nền cờ màu đỏ, ở giữa có ngôi sao 5 cánh màu vàng, góc trên phía trái có 6 chữ “BẢO VỆ AN NINH TÔ QUỐC” in hoa, màu vàng, nét cuối của chữ thứ sáu không vượt quá đầu của cánh sao phía trái."
   },
   {
     "id": 139,
